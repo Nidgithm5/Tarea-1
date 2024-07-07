@@ -1,0 +1,29 @@
+{
+  "name": "tarea-1",
+  "version": "1.0.0",
+  "main": "aboutus.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nidgithm5/Tarea-1.git"
+  },
+  "author": "Nidgithm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nidgithm5/Tarea-1/issues"
+  },
+  "homepage": "https://github.com/Nidgithm5/Tarea-1#readme",
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
